@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="et_name">NOME</string>
+    <string name="et_height">ALTURA (em m)</string>
+    <string name="et_weight">PESO (em Kg)</string>
+    <string name="btn_ok">CALCULAR</string>
+
+</resources>
